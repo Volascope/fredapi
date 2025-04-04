@@ -336,7 +336,7 @@ class Fred:
 
     def get_series_next_release_date(self, series_id, realtime_start=None):
         """
-        Get the next anticipated release date for a series.
+        Get the next scheduled release date for a series.
 
         Parameters
         ----------
